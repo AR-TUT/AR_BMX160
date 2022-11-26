@@ -1,0 +1,12 @@
+https://ozzmaker.com/accelerometer-to-g/#:~:text=The%20accelerometer%20used%20by%20the,accelerometers%20use%20this%20output%20format.&text=1mG%20%3D%200.001%20G's%20of%20acceleration%2C%20so%201000mG%20%3D%201G.
+
+https://engineering.stackexchange.com/questions/23988/conversion-from-lsb-to-mg-not-making-sense-for-accelerometer
+
+https://www.allaboutcircuits.com/technical-articles/accelerometer-specifications-measurement-range-sensitivity-and-noise-performance/
+
+https://ozzmaker.com/berryimu-running-raspberry-pi-running-windows-iot/
+
+https://github.com/DFRobot/DFRobot_BMX160/tree/master/python/raspberrypi
+
+
+
