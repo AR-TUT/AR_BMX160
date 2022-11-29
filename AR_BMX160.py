@@ -1,14 +1,14 @@
 '''!
   @file AR_BMX160.py
   @brief define BMX160 IMU class infrastructure, the implementation of basic methods
-  @Reference Document		: 	BMX160 - Datasheet
+  @Reference Document		  : 	BMX160 - Datasheet
   @Data Sheet Information	: 	Document Version 1.4, Release Date November 2021, Document Number BST-BMX160-DS000-14, Reference Code 0 273 141 190
-  @Author 				    :	ArumugaRaja @ AR 
-  @Author Mail Id			:	arpsg17@gmail.com
-  @Copyright 			    : 	Any one can reproduce this file
-  @File Created Date		:	25.11.2022
-  @url 				        :	https://github.com/AR-TUT/AR_BMX160 
-  @Web Address              :   https://arpsg17.weebly.com/
+  @Author 				        :	ArumugaRaja @ AR 
+  @Author Mail Id			    :	arpsg17@gmail.com
+  @Copyright 			        : 	Any one can reproduce this file
+  @File Created Date		  :	25.11.2022
+  @url 				            :	https://github.com/AR-TUT/AR_BMX160 
+  @Web Address            :   https://arpsg17.weebly.com/
  '''
  
 import sys
